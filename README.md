@@ -8,7 +8,7 @@
 
 <br>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1F3C,100:0E7C86&height=3&section=header"/>
 
 ## `whoami`
 
@@ -38,7 +38,7 @@ class MuditSharma:
         return "Mudit Sharma — shipping AI, one repo at a time 🚀"
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0E7C86,100:0D1F3C&height=3&section=header"/>
 
 ## ⚙️ Tech Arsenal
 
@@ -96,7 +96,7 @@ class MuditSharma:
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0D1F3C&height=3&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -169,7 +169,7 @@ class MuditSharma:
 
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1F3C,100:0E7C86&height=3&section=header"/>
 
 ## 📊 GitHub Stats
 
@@ -179,9 +179,13 @@ class MuditSharma:
 
 </div>
 
+<div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuditIsOP&bg_color=0D1117&color=00C9A7&line=0E7C86&point=FFFFFF&area=true&border_color=0E7C86)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7C86,100:00C9A7&height=3&section=header"/>
 
 ## 🏆 Achievements
 
@@ -194,7 +198,7 @@ class MuditSharma:
 🏅  Generative AI: Introduction and Applications — IBM
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9A7,100:0D1F3C&height=3&section=header"/>
 
 ## 🤝 Connect
 
