@@ -175,29 +175,11 @@ class MuditSharma:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuditIsOP&theme=tokyonight" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuditIsOP&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuditIsOP&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuditIsOP&theme=tokyonight" width="32%"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuditIsOP&theme=tokyonight&border=0E7C86&ring=0E7C86&fire=FF6B35&currStreakLabel=00C9A7&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuditIsOP&bg_color=0D1117&color=00C9A7&line=0E7C86&point=FFFFFF&area=true&border_color=0E7C86)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
