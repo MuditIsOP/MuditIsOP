@@ -118,7 +118,7 @@ class MuditSharma:
 ### 🐾 [Pet Health App](https://github.com/MuditIsOP/Pet-Health-App)
 > Full Android ecosystem: BLE telemetry → on-device ML → LLM insights
 
-- TFLite on-device inference for anomaly detection
+- TFLite on device inference for anomaly detection
 - Bluetooth Classic vitals parsing pipeline
 - Geofencing, SOS flows, PDF health reports
 - **Stack:** `Kotlin` `Jetpack Compose` `Firebase` `Groq` `TensorFlow Lite`
